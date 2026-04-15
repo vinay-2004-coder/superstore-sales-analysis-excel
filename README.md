@@ -49,7 +49,7 @@ This project presents a comprehensive sales and profit analysis of a retail supe
 ![Pivot Table](screenshots/Pivot Table.png)
 
 ### 📈 Superstore Sales Dashboard
-![Dashboard](screenshots/Dashboard.png)
+![Dashboard](screenshots/DashBoard.png)
 
 ---
 
