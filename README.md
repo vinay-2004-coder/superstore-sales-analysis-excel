@@ -94,7 +94,7 @@ superstore-sales-analysis-excel/
 📊 Aspiring Data Analyst  
 
 🔗 **LinkedIn:** https://www.linkedin.com/in/vinay-n-48a25141/  
-🔗 **GitHub:** https://github.com/your-username
+🔗 **GitHub:** https://github.com/vinay-2004-coder
 
 ---
 
