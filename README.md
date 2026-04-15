@@ -46,10 +46,10 @@ This project presents a comprehensive sales and profit analysis of a retail supe
 ## 📸 Project Screenshots
 
 ### 📊 Pivot Table – Sales and Profit by Customer
-![Pivot Table](screenshots/pivot-table-customer-sales-profit.png)
+![Pivot Table](screenshots/Pivot Table.png)
 
 ### 📈 Superstore Sales Dashboard
-![Dashboard](screenshots/superstore-sales-dashboard.png)
+![Dashboard](screenshots/Dashboard.png)
 
 ---
 
