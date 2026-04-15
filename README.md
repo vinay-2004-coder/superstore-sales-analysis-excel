@@ -60,8 +60,8 @@ superstore-sales-analysis-excel/
 ├── Superstore-Sales-Analysis.xlsx
 ├── README.md
 └── screenshots/
-├── pivot-table-customer-sales-profit.png
-└── superstore-sales-dashboard.png
+    ├── pivot-table-customer-sales-profit.png
+    └── superstore-sales-dashboard.png
 
 
 ---
