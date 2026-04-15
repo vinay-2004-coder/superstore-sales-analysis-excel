@@ -55,10 +55,11 @@ This project presents a comprehensive sales and profit analysis of a retail supe
 
 ## 📁 Repository Structure
 
-Superstore-Sales-Analysis.xlsx
-README.md
-screenshots/pivot-table-customer-sales-profit.png
-screenshots/superstore-sales-dashboard.png
+- **Superstore-Sales-Analysis.xlsx**
+- **README.md**
+- **screenshots/**
+  - pivot-table-customer-sales-profit.png
+  - superstore-sales-dashboard.png
 
 ---
 
